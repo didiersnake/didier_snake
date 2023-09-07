@@ -1,0 +1,26 @@
+export const userDetails = {
+  name: "Fotsing Djakoua Didier",
+  dob: "20 May 2000",
+  profession: "Software Developer",
+  highSchool: "G.B.H.S Nkoleton",
+  contact: "656997873",
+  email: "fotsing.djakoua@gmail.com",
+  Address: "yaounde, messassi",
+  github: "github.com/didiersnake",
+  linkedIn: "#",
+  skills: [
+    "HTML5",
+    "CSS",
+    "Javascript",
+    "React & Redux",
+    "Java",
+    "Spring boot",
+    "SQL & MySQL",
+    "Tailwind",
+    "Git & Github",
+  ],
+  University: "The ICT University",
+  language: ["English", "French"],
+  description:
+    "I am a software developer with 2 years of experience. I have a strong background in web development, I am proficient in a variety of programming languages, including Java, Javascript. I am a highly motivated and detail-oriented individual with a passion for software development.",
+};
